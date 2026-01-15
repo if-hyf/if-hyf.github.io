@@ -25,7 +25,7 @@ Education
   font-size:14px !important; font-weight:600; margin-bottom:6px;
 }
 .edu-mid p.edu-text{
-  font-size:20px !important;
+  font-size:14px !important;
   line-height:1.25 !important;
   margin:0;
 }
