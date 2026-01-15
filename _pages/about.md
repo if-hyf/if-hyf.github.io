@@ -41,7 +41,7 @@ Education
   </div>
 
   <div class="edu-right">
-    <img src="/images/buaa.png" alt="BUAA logo" class="edu-logo">
+    <img src="/images/BUAA.png" alt="BUAA logo" class="edu-logo">
   </div>
 </div>
 
@@ -57,7 +57,7 @@ Education
   </div>
 
   <div class="edu-right">
-    <img src="/images/ustb.png" alt="USTB logo" class="edu-logo">
+    <img src="/images/USTB.png" alt="USTB logo" class="edu-logo">
   </div>
 </div>
 
