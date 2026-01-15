@@ -98,4 +98,4 @@ Honors & Awards
 
 - **National Scholarship (Graduate Student)**, Ministry of Education, 2025
 - **Outstanding Graduate** and **Outstanding Undergraduate Thesis**, USTB, 2023  
-- **Merit Scholarship in Mathematics** (Top 1%), USTB, 2022
+- **Merit Scholarship in Mathematics**, USTB, 2022
