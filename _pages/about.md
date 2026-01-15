@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing a Master's degree in Mathematics at the [Institute of Artificial Intelligence](https://ev.buaa.edu.cn/Schools___Colleges/School_of_Artificial_Intelligence.htm), [Beihang University](https://ev.buaa.edu.cn/). I am also a member of the [Key Laboratory of Mathematics, Informatics and Behavioral Semantics, Ministry of Education](http://lmib.buaa.edu.cn). My research interests focus on complex systems and artificial intelligence.
+I am currently pursuing a Master's degree in Mathematics at the [Institute of Artificial Intelligence](https://ev.buaa.edu.cn/Schools___Colleges/School_of_Artificial_Intelligence.htm), [Beihang University](https://ev.buaa.edu.cn/). I am also a member of the [Key Laboratory of Mathematics, Informatics and Behavioral Semantics](http://lmib.buaa.edu.cn), Ministry of Education. My research interests focus on complex systems and artificial intelligence.
 
 Education
 ======
@@ -60,7 +60,7 @@ Education
   <div class="edu-left">B.S.</div>
 
   <div class="edu-mid">
-    <div class="edu-date">Sep. 2019 – Jul. 2023</div>
+    <div class="edu-date">Sep. 2019 – Jun. 2023</div>
     <p class="edu-text">University of Science and Technology Beijing (USTB), Beijing, China.</p>
     <p class="edu-text">B.S. in Information and Computing Science, School of Mathematics and Physics</p>
   </div>
@@ -72,7 +72,18 @@ Education
 
 Selected Publications
 ======
-<p style="font-size: 18px;">
-- **Hao, Y.**, Wang, J., Liu, J., Zheng, Z.. Causality-driven propagation speed on temporal networks. *Nonlinear Dyn* 113, 13113–13130 (2025). [https://doi.org/10.1007/s11071-025-11069-4](https://doi.org/10.1007/s11071-025-11069-4)
-- **Hao, Y.**, Liu, J., Wang, J., Zheng, Z.. Emergence of temporal higher-order interactions from pairwise collaboration. Commun Phys (2026). [https://doi.org/10.1038/s42005-025-02463-w](https://doi.org/10.1038/s42005-025-02463-w)
-</p>
+<div style="font-size:16px; line-height:1.5;">
+<ul>
+  <li>
+    <b>Hao, Y.</b>, Wang, J., Liu, J., Zheng, Z.. <i>Causality-driven propagation speed on temporal networks.</i>
+    <b>Nonlinear Dyn</b> 113, 13113–13130 (2025).
+    <a href="https://doi.org/10.1007/s11071-025-11069-4">doi:10.1007/s11071-025-11069-4</a>
+  </li>
+  <li>
+    <b>Hao, Y.</b>, Liu, J., Wang, J., Zheng, Z.. <i>Emergence of temporal higher-order interactions from pairwise collaboration.</i>
+    <b>Commun Phys</b> (2026).
+    <a href="https://doi.org/10.1038/s42005-025-02463-w">doi:10.1038/s42005-025-02463-w</a>
+  </li>
+</ul>
+</div>
+
