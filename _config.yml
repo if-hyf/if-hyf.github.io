@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Yifei Hao / Homepage"
+title                    : "Yifei Hao's Homepage"
 title_separator          : "-"
 name                     : &name "Yifei Hao"
 description              : &description "Yifei Hao's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,11 +24,11 @@ repository               : "if-hyf/if-hyf.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Yifei Hao (郝易飞)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Master's degree student @ Beihang University"
   location         : "Beijing, China"
-  employer         : "Beihang University"
+  employer         : "Institute of Artificial Intelligence, Beihang University"
   uri              : # URL
   email            : "haoyifei@buaa.edu.cn" 
 
