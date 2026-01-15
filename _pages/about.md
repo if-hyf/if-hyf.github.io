@@ -19,7 +19,7 @@ Education
 .edu-left{ width:90px; font-weight:700; font-size:14px; line-height:1.2; white-space:nowrap; }
 .edu-mid{ flex:1; min-width:0; }
 .edu-date{ font-size:12px; font-weight:600; margin-bottom:4px; }
-.edu-text{ font-size:12px; line-height:1.6; margin:0; }
+.edu-text{ font-size:12px; line-height:1.0; margin:0; }
 .edu-right{ width:120px; display:flex; justify-content:flex-end; }
 .edu-logo{ width:88px; height:auto; object-fit:contain; }
 .edu-divider{ border:0; border-top:1px solid #eee; margin:0; }
