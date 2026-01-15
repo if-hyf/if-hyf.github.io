@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing a Master's degree in Mathematics at the [Institute of Artificial Intelligence](https://ev.buaa.edu.cn/Schools___Colleges/School_of_Artificial_Intelligence.htm), [Beihang University](https://ev.buaa.edu.cn/). I am also a member of the [Key Laboratory of Mathematics, Informatics and Behavioral Semantics](http://lmib.buaa.edu.cn), Ministry of Education. My research interests focus on complex systems and artificial intelligence.
+I am currently pursuing a Master's degree in Mathematics at the [Institute of Artificial Intelligence](https://ev.buaa.edu.cn/Schools___Colleges/School_of_Artificial_Intelligence.htm), [Beihang University](https://ev.buaa.edu.cn/). I am also a member of the [Key Laboratory of Mathematics, Informatics and Behavioral Semantics](http://lmib.buaa.edu.cn), Ministry of Education. 
+
+My research interests focus on complex systems and artificial intelligence.
 
 Education
 ======
@@ -70,7 +72,7 @@ Education
   </div>
 </div>
 
-Selected Publications
+Publications
 ======
 <div style="font-size:16px; line-height:1.5;">
 <ul>
@@ -86,6 +88,10 @@ Selected Publications
   </li>
 </ul>
 </div>
+
+Teaching
+======
+- Teaching Assistant, Mathematical Statistics, Jiannan Wang. BUAA, 2024 Autumn
 
 Honors & Awards
 ======
