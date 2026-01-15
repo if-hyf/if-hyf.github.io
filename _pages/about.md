@@ -75,14 +75,14 @@ Selected Publications
 <div style="font-size:16px; line-height:1.5;">
 <ul>
   <li>
-    <b>Hao, Y.</b>, Wang, J., Liu, J., Zheng, Z.. <i>Causality-driven propagation speed on temporal networks.</i>
-    <b>Nonlinear Dyn</b> 113, 13113–13130 (2025).
-    <a href="https://doi.org/10.1007/s11071-025-11069-4">doi:10.1007/s11071-025-11069-4</a>
-  </li>
-  <li>
     <b>Hao, Y.</b>, Liu, J., Wang, J., Zheng, Z.. <i>Emergence of temporal higher-order interactions from pairwise collaboration.</i>
     <b>Commun Phys</b> (2026).
     <a href="https://doi.org/10.1038/s42005-025-02463-w">doi:10.1038/s42005-025-02463-w</a>
+  </li>
+  <li>
+    <b>Hao, Y.</b>, Wang, J., Liu, J., Zheng, Z.. <i>Causality-driven propagation speed on temporal networks.</i>
+    <b>Nonlinear Dyn</b> 113, 13113–13130 (2025).
+    <a href="https://doi.org/10.1007/s11071-025-11069-4">doi:10.1007/s11071-025-11069-4</a>
   </li>
 </ul>
 </div>
