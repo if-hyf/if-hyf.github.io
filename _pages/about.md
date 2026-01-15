@@ -87,3 +87,9 @@ Selected Publications
 </ul>
 </div>
 
+Honors & Awards
+======
+
+- **National Scholarship (Graduate Student)**, Ministry of Education, 2025
+- **Outstanding Graduate** and **Outstanding Undergraduate Thesis**, University of Science and Technology Beijing, 2023  
+- **Merit Scholarship in Mathematics** (Top 1%), University of Science and Technology Beijing, 2022
