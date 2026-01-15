@@ -37,7 +37,7 @@ Education
   <div class="edu-mid">
     <div class="edu-date">Sep. 2023 – Jun. 2026</div>
     <p class="edu-text">Beihang University (BUAA), Beijing, China.</p>
-    <p class="edu-text">M.S. in Mathematics, School of Artificial Intelligence</p>
+    <p class="edu-text">M.S. in Mathematics, Institute of Artificial Intelligence</p>
   </div>
 
   <div class="edu-right">
