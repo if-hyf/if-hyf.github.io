@@ -78,7 +78,7 @@ Publications
 <ul>
   <li>
     <b>Hao, Y.</b>, Liu, J., Wang, J., Zheng, Z.. <i>Emergence of temporal higher-order interactions from pairwise collaboration.</i>
-    <b>Commun Phys</b> (2026).
+    <b>Commun Phys</b> 9, 32 (2026).
     <a href="https://doi.org/10.1038/s42005-025-02463-w">doi:10.1038/s42005-025-02463-w</a>
   </li>
   <li>
